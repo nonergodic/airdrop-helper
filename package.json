@@ -1,0 +1,16 @@
+{
+    "scripts": {
+        "adh": "tsx adh.ts"
+    },
+    "dependencies": {
+        "@solana/spl-token": "^0.4.3",
+        "@solana/web3.js": "^1.91.1",
+        "@wormhole-foundation/sdk-base": "^0.5.1",
+        "@wormhole-foundation/sdk-definitions": "^0.5.1",
+        "node-fetch": "^3.3.2"
+    },
+    "devDependencies": {
+        "tsx": "^4.7.1",
+        "typescript": "^5.4.3"
+    }
+}
